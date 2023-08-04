@@ -59,6 +59,10 @@ const PredictionComponent = () => {
 
   return (
     <div className="flex items-center flex-col">
+      <h1 className="text-2xl font-bold text-center">Mini Version</h1>
+      <p className="text-center mb-3">
+        Pro Version coming in 3 days time (Acurate)
+      </p>
       <button
         className="p-2 px-6 bg-black text-white rounded-full mb-3"
         onClick={handleGetData}
