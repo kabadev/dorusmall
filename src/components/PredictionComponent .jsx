@@ -11,7 +11,7 @@ const PredictionComponent = () => {
     const url =
       "https://wea.dorus-mall.vip/api/project/game_now?project_id=4&id=908056";
     const headers = {
-      Token: "6312cb0e-603d-4e0b-9617-a45e102690f8",
+      Token: "a4b41b1e-42e3-4172-be9c-a676352e6ac9",
     };
 
     try {
